@@ -1,6 +1,6 @@
 ## Hi there :pencil:
 
-Eu sou o Jeferson Guedes:, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Jeferson Guedes, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
   
