@@ -16,7 +16,7 @@
  
  
  
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Meu Linkedin</a>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.linkedin.com/in/jeferson-guedes-6464ab220/?trk=opento_sprofile_details" target="_blank">Meu Linkedin</a>
  <br>
  <br>
 
