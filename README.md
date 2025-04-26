@@ -1,6 +1,5 @@
-## Hi there :pencil:
-
-Eu sou o Jeferson Guedes, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+## Olá!👨🏻‍💻🙂
+🚀Eu sou Jeferson Guedes, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
   
@@ -11,16 +10,18 @@ Eu sou o Jeferson Guedes, sou um Programador Front End, atualmente estou aprende
  
 
  <br>
- <b>☎️Contato:</b>
+ <b>📞Contato:</b>
  <br>
  <br>
  
  
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Meu Linkedin</a>
+ <br>
  <br>
 
  
- <b>💻Tecnologias em aprendizado:<b>
+ <b>🤖Tecnologias em aprendizado:<b>
  <br>
  <br>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="logo-js" />
